@@ -16,3 +16,11 @@ How to use this:
   5. Target those documents specifically for input text type you would come across later in your business logic
   
 NOTE: Nothing fancy. This just leverages the power of document similarity to scope out or explore large metadata instead of exploring them manually cause if you try exploring manually you would end up with a system lag for loading such a large metadata.
+
+Upcoming Development Phases:
+  - Classifier Phase: 
+        1. This would take images as input for the model
+        2. Classify object based on 80 classes selected while training
+        3. Leverage the power of Development Phase 1 to get relevant documents to look up for
+  - Image Captioning:
+        1. Try to gain information from the relevant documents to map Object -> Relationships -> Object and build a meaningful caption
