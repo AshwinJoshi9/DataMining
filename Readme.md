@@ -13,9 +13,9 @@ How to use this:
 Deployed stuff: ashwinapp.azurewebsites.net
   1. Go this url, and click on any of the three feature buttons:<br>
     - TextMining App<br>
-    <t>Enter any free form text and the app will render most relevant images for the user text along with algorithm calculation steps.
+    Enter any free form text and the app will render most relevant images for the user text along with algorithm calculation steps.<br>
     - Classifier App<br>
-        Enter image url and the app will output the objects it detected from that image. (Trained for 10 classes)
+        Enter image url and the app will output the objects it detected from that image. (Trained for 10 classes)<br>
     - Image Caption App<br>
         WORKING ON THIS
 For development on top of this and ofcourse a local test run:
