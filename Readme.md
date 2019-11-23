@@ -9,6 +9,7 @@ Purpose of this idea:
   4. This gave me an idea of targeting appropriate documents for specific outputs from the classifier model to map Object -> Relationship -> Object mapping
   
 How to use this:
+
 Deployed stuff: ashwinapp.azurewebsites.net
   1. Go this url, and click on any of the three feature buttons:
     - TextMining App
