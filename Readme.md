@@ -1,6 +1,6 @@
 Development Phase 1:
   Text search to render relevant document ranking from the courpus.
-  Algorithm used: Tf-idf statistical metrics with cosine similarity as the similiarity metric to rank documents.
+  Algorithm used: Tf-idf statistical metrics as the similiarity metric to rank documents.
   
 Purpose of this idea:
   1. Goal is to build an image caption model
@@ -9,6 +9,15 @@ Purpose of this idea:
   4. This gave me an idea of targeting appropriate documents for specific outputs from the classifier model to map Object -> Relationship -> Object mapping
   
 How to use this:
+Deployed stuff: ashwinapp.azurewebsites.net
+  1. Go this url, and click on any of the three feature buttons:
+    - TextMining App
+        Enter any free form text and the app will render most relevant images for the user text along with algorithm calculation steps.
+    - Classifier App
+        Enter image url and the app will output the objects it detected from that image. (Trained for 10 classes)
+    - Image Caption App
+        WORKING ON THIS
+For development on top of this and ofcourse a local test run:
   1. Clone this directory to your local repo.
   2. Put your metadata in: actual_metadata/*<.json>
   3. Execute index.py which fires the flask api and renders an html page on the URL mentioned in your console
