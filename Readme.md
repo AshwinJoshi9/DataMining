@@ -17,13 +17,12 @@ Deployed stuff: ashwinapp.azurewebsites.net
     - Classifier App<br>
         Enter image url and the app will output the objects it detected from that image. (Trained for 10 classes)<br>
     - Image Caption App<br>
-        WORKING ON THIS
+        WORKING ON THIS<br>
 For development on top of this and ofcourse a local test run:
   1. Clone this directory to your local repo.
   2. Put your metadata in: actual_metadata/*<.json>
   3. Execute index.py which fires the flask api and renders an html page on the URL mentioned in your console
-  4. Enter a test text for which you want to scope out which documents are most relevant for that type of input
-  5. Target those documents specifically for input text type you would come across later in your business logic
+  4. Try the app locally on URL flashed on the console by the Flask server.
   
 NOTE: Nothing fancy. This just leverages the power of document similarity to scope out or explore large metadata instead of exploring them manually cause if you try exploring manually you would end up with a system lag for loading such a large metadata.
 
