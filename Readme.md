@@ -13,10 +13,10 @@ How to use this:
 Deployed stuff: ashwinapp.azurewebsites.net
   1. Go this url, and click on any of the three feature buttons:<br>
     - TextMining App<br>
-        Enter any free form text and the app will render most relevant images for the user text along with algorithm calculation steps.
-    - Classifier App
+    <t>Enter any free form text and the app will render most relevant images for the user text along with algorithm calculation steps.
+    - Classifier App<br>
         Enter image url and the app will output the objects it detected from that image. (Trained for 10 classes)
-    - Image Caption App
+    - Image Caption App<br>
         WORKING ON THIS
 For development on top of this and ofcourse a local test run:
   1. Clone this directory to your local repo.
