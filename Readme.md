@@ -1,4 +1,4 @@
-Development Phase 1:
+<h1>Development Phase 1:</h1>
   Text search to render relevant document ranking from the courpus.
   Algorithm used: Tf-idf statistical metrics as the similiarity metric to rank documents.
   
