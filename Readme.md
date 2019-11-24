@@ -24,6 +24,6 @@ NOTE: Nothing fancy. This just leverages the power of document similarity to sco
 <a href=""https://visualgenome.org/>Click here to view the Visual Genome data</a>
 <h3>References</h3>
 1. <a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf"> Tf-idf Wiki </a> <br>
-2. <a href="http://flask.palletsprojects.com/en/1.1.x/" Flask Docs </a> <br>
+2. <a href="http://flask.palletsprojects.com/en/1.1.x/"> Flask Docs </a> <br>
 3. <a href="https://www.tensorflow.org/tutorials/images/cnn"> Tensorflow CNN </a><br>
 4. <a href="https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/generative_examples/image_captioning_with_attention.ipynb"> Image Captioning Model </a><br>
