@@ -19,10 +19,11 @@ For development on top of this and ofcourse a local test run:
   
 NOTE: Nothing fancy. This just leverages the power of document similarity to scope out or explore large metadata instead of exploring them manually cause if you try exploring manually you would end up with a system lag for loading such a large metadata.
 
-Upcoming Development Phases:
-  - Classifier Phase: 
-        1. This would take images as input for the model
-        2. Classify object based on 80 classes selected while training
-        3. Leverage the power of Development Phase 1 to get relevant documents to look up for
-  - Image Captioning:
-        1. Try to gain information from the relevant documents to map Object -> Relationships -> Object and build a meaningful caption
+<h1>Other Details:</h1>
+<h3>Dataset</h3>
+<a href=""https://visualgenome.org/>Click here to view the Visual Genome data</a>
+<h3>References</h3>
+1. <a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf"> Tf-idf Wiki </a>
+2. <a href="http://flask.palletsprojects.com/en/1.1.x/" Flask Docs </a>
+3. <a href="https://www.tensorflow.org/tutorials/images/cnn"> Tensorflow CNN </a>
+4. <a href="https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/generative_examples/image_captioning_with_attention.ipynb"> Image Captioning Model </a>
