@@ -7,7 +7,8 @@ Deployed stuff: ashwinapp.azurewebsites.net
     - Classifier App<br>
         Enter image url and the app will output the objects it detected from that image. (Trained for 10 classes)<br>
     - Image Caption App<br>
-        WORKING ON THIS<br>
+        Caption Search App where Tfidf is ussed to analyze the captions predicted<br>
+Video Link: <a href="https://youtu.be/iq54Zlbikeg"> Click Here </a>
 
 <h3>Local test and deploy</h3>
 For development on top of this and ofcourse a local test run:
