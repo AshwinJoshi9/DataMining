@@ -1,7 +1,5 @@
 <h1>How to use this:</h1>
-<h3>Deployed</h3>
-Deployed stuff: ashwinapp.azurewebsites.net
-  1. Go this url, and click on any of the three feature buttons:<br>
+<h3>Overview</h3>
     - TextMining App<br>
     Enter any free form text and the app will render most relevant images for the user text along with algorithm calculation steps.<br>
     - Classifier App<br>
